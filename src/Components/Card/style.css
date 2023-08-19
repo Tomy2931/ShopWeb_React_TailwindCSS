@@ -1,0 +1,17 @@
+.icono-agregar-carrito:hover{
+    animation: shaking 0.1s ease-in-out 3 ;
+ 
+}
+
+@keyframes shaking {
+    0%{
+        rotate: 0deg;
+    }
+    50%{
+        rotate: 10deg;
+    }
+    100%{
+        rotate: 0deg;
+    }
+    
+}

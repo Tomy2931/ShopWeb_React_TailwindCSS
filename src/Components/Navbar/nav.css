@@ -1,0 +1,10 @@
+.nav-principal{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 0.97rem;
+    position: absolute;
+    left: 0;
+
+}
+

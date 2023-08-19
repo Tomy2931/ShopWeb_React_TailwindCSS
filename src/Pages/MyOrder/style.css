@@ -1,0 +1,17 @@
+.icon-back-arrow:hover{
+    animation: arrow-shake 0.7s infinite;
+    animation-direction: reverse;
+    
+}
+@keyframes arrow-shake {
+    0%{
+        
+        left:0
+    }
+    50%{
+        left:-5px
+    }
+    100%{
+        left:0
+    }
+}

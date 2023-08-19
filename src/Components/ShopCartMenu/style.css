@@ -1,0 +1,18 @@
+
+::-webkit-scrollbar {display: none;} /*Ocultar scroll*/
+
+.footer-button-listo:hover{
+    transition: 0.1s;
+    background-color: rgb(10, 10, 10);
+    color: rgb(255, 255, 255);
+}
+
+.footer-button-disabled{
+    opacity: 0.4; 
+}
+.footer-button-disabled:hover{
+    cursor:default;
+    background-color: white;
+    color: black;
+
+}
