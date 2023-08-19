@@ -11,6 +11,8 @@ This is a one of the most complex proyect what did i do so far. I also started a
 
 ### Basic functionalities:
 
+-Click on image product to see details
+
 -Add product, clicking in the shopping bag icon
 
 -Show added item in the cart, click in the cart icon on the navbar
