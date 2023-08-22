@@ -3,10 +3,11 @@
 This is a one of the most complex proyect what did i do so far. I also started applying tailwindCSS to my code.
 
 ## To run:
+Run in terminal:
 
--In the main root
+-npm install
 
--Run in terminal: npm run dev
+-npm run dev
 
 
 ### Basic functionalities:
